@@ -13,18 +13,18 @@ main .row {
 }
 
 .black {
-  background-color: black;
-  color: white;
+  background-color: #CFCFC4;
+
 }
 
 .green {
-  background-color: green;
+  background-color: #77dd77;
 }
 
 .orange {
-  background-color: orange;
+  background-color: #ffb347;
 }
 
 .blue {
-  background-color: blue;
+  background-color: #779ecb;
 }
